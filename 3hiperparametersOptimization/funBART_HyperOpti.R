@@ -1,4 +1,4 @@
-#This function is used to optimize the hyperparameters of the BART algorithm. 
+#This function is used to test hyperparameters of the BART algorithm. 
 #The same number of pseudo absences (random) and presences are used 
 #as recommended for machine learning techniques based on decision trees. 
 #Also, mean predictions are made based on 10 repetitions 
